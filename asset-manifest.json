@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/insure-site/static/css/main.229ec0a5.css",
+    "main.js": "/insure-site/static/js/main.de62da70.js",
+    "static/js/787.78bf86da.chunk.js": "/insure-site/static/js/787.78bf86da.chunk.js",
+    "static/media/abtbg.jpg": "/insure-site/static/media/abtbg.25633d8d6603df15c5c1.jpg",
+    "static/media/carousel1.jpg": "/insure-site/static/media/carousel1.78b39c272f21311480ab.jpg",
+    "static/media/carousel2.jpg": "/insure-site/static/media/carousel2.226aeeab4115d7b14c06.jpg",
+    "static/media/about.jpg": "/insure-site/static/media/about.63c289b231eb66785852.jpg",
+    "static/media/reason.jpg": "/insure-site/static/media/reason.84515815b82121e9e1dc.jpg",
+    "index.html": "/insure-site/index.html",
+    "main.229ec0a5.css.map": "/insure-site/static/css/main.229ec0a5.css.map",
+    "main.de62da70.js.map": "/insure-site/static/js/main.de62da70.js.map",
+    "787.78bf86da.chunk.js.map": "/insure-site/static/js/787.78bf86da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229ec0a5.css",
+    "static/js/main.de62da70.js"
+  ]
+}
